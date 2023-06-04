@@ -1,3 +1,3 @@
 chapter2.txt
-This is teh second
- file
+This is the second
+ file and i think may be the last file
