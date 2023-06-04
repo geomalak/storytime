@@ -1,2 +1,4 @@
 chapter3.txt
-This is the third chapter2
+This is the third chapter
+I though it would have been the last
+maybe
